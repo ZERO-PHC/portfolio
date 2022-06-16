@@ -12,16 +12,7 @@ const Footer = () => {
       <div className="footer_content">
         <div className="container">
           <p>
-            Copyright © {new Date().getFullYear()}. All rights reserved. <br />
-            Developed by{" "}
-            <a
-              className="fn__link"
-              href="https://themeforest.net/user/trendycoder"
-              target="_blank"
-              rel="noreferrer"
-            >
-              TrendyCoder
-            </a>
+            Crafted with love and passion by your friendly dev Zerø
           </p>
         </div>
       </div>

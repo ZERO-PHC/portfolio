@@ -21,10 +21,10 @@ const Modalbox = ({ close, value }) => {
 
     },
     {
-      name: "Ice Cream",
-      tag: "mobile, design", 
+      name: "Emerald Bot Bounty",
+      tag: "WEB, REACT, DESIGN", 
       desc: [
-        { p: "Sed ornare tellus a odio bibendum, at tristique sapien malesuada. Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in."}
+        { p: " I was assigned the task to lead the design and development of the landing site for the Emerald Discord Bot Bounty.    This experience helped me a lot to learn how to work with a team of creatives in a successful way. I worked with Jacob Tucker and Frlabs on this project and it was one of the best experiences of my life."}
       ]
 
     },

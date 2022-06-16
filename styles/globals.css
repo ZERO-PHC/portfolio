@@ -3,6 +3,10 @@
 @import "../public/css/style.css?ver=4";
 @import "swiper/css";
 
+p {
+  color: azure;
+}
+
 .owl-carousel {
   display: block;
 }

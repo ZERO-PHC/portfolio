@@ -12,16 +12,16 @@ const Intro = () => {
   return (
     <Fragment>
       <Head>
-        <title>Resumo Intro | Personal Portfolio React NextJS Template</title>
+        <title>ZER0 | Alan Dega </title>
       </Head>
       <div className="resumo_fn_intro">
         <div className="divider"></div>
         <div className="intro_content">
           <div className="title_holder">
             <h3>
-              <Link href="/intro">Resumo</Link>
+              <Link href="/intro">Alan Dega</Link>
             </h3>
-            <p>Creative personal website template</p>
+            {/* <p>Creative personal website template</p> */}
           </div>
           <div className="v_list">
             <div className="left">

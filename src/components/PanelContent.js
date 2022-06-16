@@ -4,7 +4,7 @@ const PanelContent = () => {
   useEffect(() => {
     const Typed = require("typed.js");
     new Typed(".animated_title", {
-      strings: ["Bruce Wilson", "Web Developer", "Freelancer", "Photographer"],
+      strings: ["Creative Dev", "Web Developer", "Soon Cadence Dev", "Freelancer"],
       loop: true,
       smartBackspace: false,
       typeSpeed: 40,
@@ -19,7 +19,7 @@ const PanelContent = () => {
         <div className="border2" />
         <div className="img_holder">
           <img src="img/thumb/square.jpg" alt="image" />
-          <div className="abs_img" data-bg-img="img/right.jpg" />
+          <div className="abs_img" data-bg-img="https://res.cloudinary.com/do4mactw0/image/upload/v1654624323/K9L/profileImage_ibamvs.jpg" />
         </div>
         <div className="title_holder">
           <h5>Hi There! I am</h5>
@@ -32,7 +32,7 @@ const PanelContent = () => {
         <a href="#contact">
           <span className="circle" />
           <span className="text">
-            I’m available for a freelance job. Hire me
+            I’m available for a freelance job
           </span>
         </a>
       </div>

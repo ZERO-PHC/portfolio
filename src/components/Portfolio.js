@@ -46,32 +46,23 @@ const Portfolio = () => {
                 <div className="abs_img" data-bg-img="img/portfolio/1.jpg" />
               </div>
               <div className="title_holder">
-                <p>illustration, design</p>
+                <p>FRONT-END, FINAL PRODUCT</p>
                 <h3>
-                  <a href="#">Sweet Cherry</a>
+                  <a href="#">Emerald Bot</a>
                 </h3>
               </div>
               <div className="fn__hidden">
                 <p className="fn__cat">illustration, design</p>
-                <h3 className="fn__title">Sweet Cherry</h3>
+                <h3 className="fn__title">Emerald Bot</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
                   <div className="abs_img" data-bg-img="img/portfolio/1.jpg" />
                 </div>
                 <p className="fn__desc">
-                  Sed ornare tellus a odio bibendum, at tristique sapien
-                  malesuada. Proin sagittis maximus accumsan. Class aptent
-                  taciti sociosqu ad litora torquent per conubia nostra, per
-                  inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Quisque gravida quam sit amet elit varius
-                  tempor. Pellentesque purus eros, blandit eu mollis vel,
-                  commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at
-                  nunc consectetur efficitur ut quis est. Proin posuere orci
-                  eget vulputate fringilla. Curabitur placerat massa eget
-                  efficitur cursus. Sed sollicitudin rhoncus blandit. Nam
-                  accumsan vestibulum enim. Sed rutrum eu leo pellentesque
-                  lobortis. Integer ornare fringilla arcu, eu mattis risus
-                  convallis in.
+                  I was assigned the task to lead the design and development of the
+                  landing site for the Emerald Discord Bot Bounty.<br/>
+                  This experience helped me a lot to learn how to work with a team of creatives in a successful way.
+                  I worked with Jacob Tucker and Frlabs on this project and it was one of the best experiences of my life.
                 </p>
               </div>
             </SwiperSlide>
@@ -101,36 +92,10 @@ const Portfolio = () => {
                   <div className="abs_img" data-bg-img="img/portfolio/2.jpg" />
                 </div>
                 <p className="fn__desc">
-                  Sed ornare tellus a odio bibendum, at tristique sapien
-                  malesuada. Proin sagittis maximus accumsan. Class aptent
-                  taciti sociosqu ad litora torquent per conubia nostra, per
-                  inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Quisque gravida quam sit amet elit varius
-                  tempor. Pellentesque purus eros, blandit eu mollis vel,
-                  commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at
-                  nunc consectetur efficitur ut quis est. Proin posuere orci
-                  eget vulputate fringilla. Curabitur placerat massa eget
-                  efficitur cursus. Sed sollicitudin rhoncus blandit. Nam
-                  accumsan vestibulum enim. Sed rutrum eu leo pellentesque
-                  lobortis. Integer ornare fringilla arcu, eu mattis risus
-                  convallis in.
+                 waleee
                 </p>
                 <p className="fn__desc">
-                  Quisque dui metus, eleifend at enim ac, imperdiet sagittis
-                  dolor. Vestibulum ipsum quam, feugiat non velit sit amet,
-                  pulvinar varius nisl. Mauris tristique, ipsum sit amet lacinia
-                  congue, mauris magna tempus nibh, in mollis eros enim a
-                  tortor. Morbi enim arcu, tristique vitae mi nec, hendrerit
-                  pharetra metus. Phasellus id feugiat purus. In vel elit eu
-                  lacus ultrices feugiat. Etiam at aliquet mi. Nunc sit amet
-                  libero sit amet lectus pellentesque sagittis. Curabitur
-                  blandit ante quis erat dapibus viverra. Maecenas consequat
-                  pulvinar pulvinar. Donec in aliquam arcu. Donec eu laoreet
-                  dolor. Ut nisi lectus, pulvinar ac mattis quis, pretium ac
-                  nulla. Morbi sed ligula ultrices, ornare mauris id, auctor
-                  arcu. Sed pellentesque ex sed erat faucibus, ultrices vehicula
-                  ex dapibus. Aenean venenatis metus eros, vel faucibus lorem
-                  porttitor eu.
+                  wooo
                 </p>
               </div>
             </SwiperSlide>
